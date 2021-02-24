@@ -3,4 +3,5 @@
 Execução do Trabalho 1:
 
 yarn install
+
 yarn start
