@@ -1,7 +1,3 @@
-/* .input-field {
-    width: 50px !important;
-} */
-
 body {
     display: grid;
     place-items: center;
@@ -45,4 +41,9 @@ body {
     color: #fff;
     background-color: #0b1457;
     border-color: #0b1457;
+}
+
+.input-group {
+    width: 100%;
+    max-width: 300px;
 }
