@@ -7,8 +7,11 @@ O servidor deve responder com uma pagina html com uma caixa de texto e um botão
 ### Solução
 
 O servidor está em server.js
+
 A função de incrementação está em index.js
+
 A página está em index.html
+
 Estilizações estão em style.css
 
 ### Como executar
